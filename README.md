@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coitloz88&exclude_repo=Garmin-API-Test,Garmin-Background-Test&layout=compact)](https://github.com/coitloz88/github-readme-stats)
 
 <!--
 **coitloz88/coitloz88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
