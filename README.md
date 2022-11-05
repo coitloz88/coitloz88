@@ -2,12 +2,15 @@
 
 #### 🌱 I’m currently learning ...  
 
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white"> &ensp; <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"> &ensp; <img src="https://img.shields.io/badge/Unity-000000.svg?style=flat-square&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/C%20Sharp-239120.svg?style=flat-square&logo=C-Sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"> ![Matplotlib](https://img.shields.io/badge/Matplotlib-%234b8bbe.svg?style=flat-square&logo=Matplotlib&logoColor=white)
+ <img src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white"> &ensp; <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white"> ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+ <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"> &ensp; <img src="https://img.shields.io/badge/Unity-000000.svg?style=flat-square&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/C%20Sharp-239120.svg?style=flat-square&logo=C-Sharp&logoColor=white">
   
-#### 🔭 I’m currently working on ...
+#### 🔭 I’m working on ...
 
 - VoyagerX, Software Engineer Intern(2022.09~): Vrew Team
 - Google Develpoer Student Club Hanyang, Core Member (2022.08~): ML/DL Advanced Part
+- Ooparts, Club Executive (2020.03~): Game Programming
 
 #### 📫 How to reach me
 cotloz88@gmail.com
