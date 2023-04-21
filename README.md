@@ -8,12 +8,15 @@
   
 #### 🔭 I’m working on ...
 
-- VoyagerX, Software Engineer Intern(2022.09~): Vrew Team
+- VoyagerX, Software Engineer Intern(2022.09~2023.02): Vrew Team
 - Google Develpoer Student Club Hanyang, Core Member (2022.08~): ML/DL Advanced Part
 - Ooparts, Club Executive (2020.03~): Game Programming
 
 #### 📫 How to reach me
 cotloz88@gmail.com
+
+#### My Homepage
+[Link](https://bit.ly/402Y2Br)
 
 <!--
 **coitloz88/coitloz88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
