@@ -2,9 +2,11 @@
 
 #### 🌱 I’m currently learning ...  
 
-| Machine Learning   | Web Programming | Game Programming |
-|:------------------:|:----------------:|:----------------:|
-| <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"> ![Matplotlib](https://img.shields.io/badge/Matplotlib-%234b8bbe.svg?style=flat-square&logo=Matplotlib&logoColor=white) <img src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white"> | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white"> ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"> | <img src="https://img.shields.io/badge/Unity-000000.svg?style=flat-square&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/C%20Sharp-239120.svg?style=flat-square&logo=C-Sharp&logoColor=white"> |    
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+
+<img src="https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white">
   
 #### 🔭 I’m working on ...
 
