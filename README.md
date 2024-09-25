@@ -29,8 +29,8 @@ I am majoring in Computer Science and Engineering and am particularly interested
 - Ooparts, Club Executive (2020.03-): Game Programming
 
 
-- Google Develpoer Student Club Hanyang, Core Member (2022.08-2023.07)
-- Hanyang Artificial Intelligence (2023.03-): Kaggle Study
+- Google Develpoer Student Club, Core Member (2022.08-2023.07)
+- Artificial Intelligence Study Club (2023.03-): Kaggle Study
 
 #### 📫 How to reach me & More about me
 
