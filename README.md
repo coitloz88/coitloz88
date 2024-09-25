@@ -1,31 +1,41 @@
 ## Hi, I'm Hyemin Lee 👋
 
+Enthusiastic about building customer-centric services and collaborating on innovative projects.
+
+I am majoring in Computer Science and Engineering and am particularly interested in operating systems, database systems, and software engineering.
+
 #### 🌱 My Interests
 
-- Web Full-stack Programming
+- Web Programming
   
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 
-- Game Programming
-  
+- Computer Science
+
+  Operating System, Database System, Software Engineering
+
+<!--
   <img src="https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white">
+-->
   
 #### 🔭  My Experiences
 
 - VoyagerX, Software Engineer Intern (2022.09-2023.02): Vrew Team
 
 
-- MadCamp (2023.06-2023.07): Web & Game Development, Product Managing
+- MadCamp (2023.06-2023.07): Android/Web/Game Development, Product Managing
 - Ooparts, Club Executive (2020.03-): Game Programming
 
 
-- Google Develpoer Student Club Hanyang, Core Member (2022.08-2023.07): ML/DL Advanced Part
+- Google Develpoer Student Club Hanyang, Core Member (2022.08-2023.07)
 - Hanyang Artificial Intelligence (2023.03-): Kaggle Study
 
-#### 📫 How to reach me
-cotloz88@gmail.com
+#### 📫 How to reach me & More about me
+
+- Email: cotloz88@gmail.com
+- Notion: https://shorturl.at/7XS61
 
 <!--
 #### My Homepage
