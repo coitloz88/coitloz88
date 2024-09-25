@@ -2,7 +2,7 @@
 
 Enthusiastic about building customer-centric services and collaborating on innovative projects.
 
-I am majoring in Computer Science and Engineering and am particularly interested in operating systems, database systems, and software engineering.
+I am majoring in Computer Science and Engineering and particularly interested in operating systems, database systems, and software engineering.
 
 #### 🌱 My Interests
 
