@@ -8,29 +8,30 @@ I am majoring in Computer Science and Engineering and particularly interested in
 
 - Web Programming
   
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=CSS&logoColor=white"> 
 
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 
+- Game Programming
+
+  <img src="https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/C%20Sharp-9179E4.svg?style=for-the-badge&logo=C-Sharp&logoColor=white">
+  
 - Computer Science
 
-  Operating System, Database System, Software Engineering
+  Operating System, Database System, Software Engineering, Computer Network
 
-<!--
-  <img src="https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white">
--->
   
 #### 🔭  My Experiences
 
-- VoyagerX, Software Engineer Intern (2022.09-2023.02): Vrew Team
-
-
-- MadCamp (2023.06-2023.07): Android/Web/Game Development, Product Managing
-- Ooparts, Club Executive (2020.03-): Game Programming
-
-
-- Google Develpoer Student Club, Core Member (2022.08-2023.07)
-- Artificial Intelligence Study Club (2023.03-): Kaggle Study
+|Title|Role|Content|Period|
+|:---:|:---:|:---:|:---:|
+|Waseda University|Exchange Student|Major in Computer Science and Communications Engineering|2024.03-2024.08|
+|Ooparts|Club Executive|Game Development, Game Product Management|2020.03-2024.02|
+|Artificial Intelligence Study Club|General Member|Kaggle Study, App Development|2023.03-2024.02|
+|MadCamp|General Member|Web/Game Development|2023.06-2023.07|
+|Google Developer Student Club|Core Member|Web/App Development|2022.09-2023.07|
+|VoyagerX|Software Engineering Intern|Web Development|2022.09-2023.02|
+|IcLab|Research Associate|Android App Development|2022.04-2023.08|
 
 #### 📫 How to reach me & More about me
 
