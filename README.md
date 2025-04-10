@@ -33,10 +33,9 @@ I am majoring in Computer Science and Engineering and particularly interested in
 |VoyagerX|Software Engineering Intern|Web Development|2022.09-2023.02|
 |IcLab|Research Associate|Android App Development|2022.04-2023.08|
 
-#### 📫 How to reach me & More about me
+#### 📫 How to reach me
 
 - Email: cotloz88@gmail.com
-- Notion: https://shorturl.at/7XS61
 
 <!--
 #### My Homepage
