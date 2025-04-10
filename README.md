@@ -27,7 +27,6 @@ I am majoring in Computer Science and Engineering and particularly interested in
 |:---:|:---:|:---:|:---:|
 |Waseda University|Exchange Student|Major in Computer Science and Communications Engineering|2024.03-2024.08|
 |Ooparts|Club Executive|Game Development, Game Product Management|2020.03-2024.02|
-|Artificial Intelligence Study Club|General Member|Kaggle Study, App Development|2023.03-2024.02|
 |MadCamp|General Member|Web/Game Development|2023.06-2023.07|
 |Google Developer Student Club|Core Member|Web/App Development|2022.09-2023.07|
 |VoyagerX|Software Engineering Intern|Web Development|2022.09-2023.02|
