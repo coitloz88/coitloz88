@@ -11,8 +11,8 @@ I majored in computer science and engineering, and I am particularly interested 
 
 ### 🌱 My Interests
 
-- Game Development
-- Playing Games
+- Game development
+- Listening to music (particularly soft rock)
 
 <!--
 - Web Programming
