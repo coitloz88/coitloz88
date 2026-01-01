@@ -1,11 +1,20 @@
+<!--
+
 ## Hi, I'm Hyemin Lee 👋
 
 Enthusiastic about building customer-centric services and collaborating on innovative projects.
 
 I majored in computer science and engineering, and I am particularly interested in operating systems and database systems among my major subjects.
 
-#### 🌱 My Interests
+!-->
 
+
+### 🌱 My Interests
+
+- Game Development
+- Playing Games
+
+<!--
 - Web Programming
   
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=CSS&logoColor=white"> 
@@ -32,13 +41,13 @@ I majored in computer science and engineering, and I am particularly interested 
 |VoyagerX|Software Engineering Intern|Web Development|2022.09-2023.02|
 |IcLab|Research Associate|Android App Development|2022.04-2023.08|
 
-#### 📫 How to reach me
+!-->
+
+### 📫 How to reach me
 
 - Email: cotloz88@gmail.com
 
 <!--
-#### My Homepage
-[Link](https://bit.ly/402Y2Br)
 
 **coitloz88/coitloz88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
